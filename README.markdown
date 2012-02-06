@@ -14,6 +14,8 @@ For deploy tracking, since I use Capistrano to deploy my PHP apps, I simply use 
 
 # Requirements
 
+This fork (geoloqi/php-airbrake-notifier) requires PHP 5.3.0+
+
 To use the default _pear_ client install Pear's HTTP_Request2:
 
     pear install HTTP_Request2
